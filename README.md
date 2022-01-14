@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Elisson! 😃
 
 - 🔭 Hoje desenvolvo meus estudos como Full-Stack
-- 🌱 Estudando HTML, CSS, JS, Angular e Bootstrap
+- 🌱 Estudando atualmente C#
 - 👯 Procuro colaboração em projetos para treinamento
 - 😄 Pronomes: ele/dele
 - ⚡ Fato curioso: Conclui o Doutorado em Química em 2020 e agora estudo programação! 😊
