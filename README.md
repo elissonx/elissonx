@@ -4,7 +4,7 @@
 - 🌱 Currently studying Python
 - 👯 Looking for collaboration on projects for training
 - 😄 Pronouns: he/him
-- ⚡ Curious fact: I achieve my PhD degree in Chemistry in 2020 and now I'm studying programming and Data Science! 😊
+- ⚡ Curious fact: I achieved my PhD degree in Chemistry in 2020 and now I'm studying programming and Data Science! 😊
 
 <div align="center">
   <a href="https://github.com/elissonx">
