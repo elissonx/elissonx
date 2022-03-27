@@ -1,9 +1,9 @@
 ## Hi! I'm Ellison! 😃
 
-- 🔭 Today I develop my studies as a Data Science
-- 🌱 Currently studying Python
-- 👯 Looking for collaboration on projects for training
-- 😄 Pronouns: he/him
+- 🔭 Today I develop my studies as a Data Scientist.
+- 🌱 Currently studying Python.
+- 👯 Looking for collaboration on projects for training.
+- 😄 Pronouns: he/him.
 - ⚡ Curious fact: I achieved my PhD degree in Chemistry in 2020 and now I'm studying programming and Data Science! 😊
 
 <div align="center">
