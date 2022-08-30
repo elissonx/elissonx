@@ -1,4 +1,4 @@
-## Hi! I'm Ellison! 😃
+## Hi! I'm Elisson! 😃
 
 - 🔭 Today I develop my studies as a Data Scientist.
 - 🌱 Currently studying Python.
